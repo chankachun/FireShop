@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136802888441",
+    "firebase_url": "https://fireshop-4d0d0.firebaseio.com",
+    "project_id": "fireshop-4d0d0",
+    "storage_bucket": "fireshop-4d0d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136802888441:android:8f0f7ef9065d6947451028",
+        "android_client_info": {
+          "package_name": "com.kachun.fireshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136802888441-7ouqhjnilp8almsj8df8mhfmqnfgbc88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kachun.fireshop",
+            "certificate_hash": "f3d61ff35d4c7bbe1c59ec05bdc03756e6402eee"
+          }
+        },
+        {
+          "client_id": "136802888441-9q1g9sjgci3prnuq31vnvr2g9rt4hqs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ILdkeYTG8dYYeARqKL5JjkjIZuWwAgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136802888441-9q1g9sjgci3prnuq31vnvr2g9rt4hqs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
